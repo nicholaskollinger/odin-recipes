@@ -1,0 +1,12 @@
+h1 {
+  font-size: 48px;
+  font-family: Arial, sans-serif;
+}
+
+.important {
+  font-size: 30px;
+  font-weight: 700;
+  color: red;
+  background-color: yellow;
+  text-align: center;
+}
